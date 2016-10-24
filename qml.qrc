@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/whatsapp-logo-icone.png</file>
+    </qresource>
+</RCC>
